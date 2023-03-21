@@ -1,0 +1,22 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "A Small Demo ",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehasingh931126/react-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nehasingh931126/react-redux/issues"
+  },
+  "homepage": "https://github.com/nehasingh931126/react-redux#readme",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
